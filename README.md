@@ -1,7 +1,7 @@
 # Generador de CVs - Repo público.
 Repositorio público de la web Generador de CV gratuito, la finalidad es poder reportar Bugs, sugerir implementaciones y mejoras futuras para la web.
 
-![](https://i.ibb.co/XZP70YHQ/cv.png)
+![](https://i.postimg.cc/KYp9btqJ/cv.png)
 
 # Funcionalidades disponibles.
 - Generar CV en inglés y español en simultaneo.
