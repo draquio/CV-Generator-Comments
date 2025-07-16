@@ -13,7 +13,19 @@ Repositorio público de la web Generador de CV gratuito, la finalidad es poder r
 - Importar CV generado en la propia web
 
 
-## Versión actual: v1.2.7
+## Versión actual: v2.0.0
+### v2.0.0
+- Todos los campos son opcionales
+- Tag de CV para mantener una mejor estructura y multiples CVs
+- Elementos párrafo, lista, lista ordenada y bloque en blanco agregados
+- Configuraciones agregadas.
+- Sidebar de componentes agregado
+- Españo, Inglés y Portugués soportado
+- UX mejorada
+- Títulos editables (se puede modificar o dejar en blanco)
+- Tooltips actualizados
+
+
 ### v1.2.7
 - Bugs corregidos
 - Nuevo url y logo
